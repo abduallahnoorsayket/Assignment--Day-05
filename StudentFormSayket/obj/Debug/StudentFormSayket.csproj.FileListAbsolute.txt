@@ -1,0 +1,20 @@
+F:\Adullahsaykt\StudentFormSayket\bin\Debug\StudentFormSayket.exe.config
+F:\Adullahsaykt\StudentFormSayket\bin\Debug\StudentFormSayket.exe
+F:\Adullahsaykt\StudentFormSayket\bin\Debug\StudentFormSayket.pdb
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.csprojAssemblyReference.cache
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.Form1.resources
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.Properties.Resources.resources
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.csproj.GenerateResource.cache
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.csproj.CoreCompileInputs.cache
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.exe
+F:\Adullahsaykt\StudentFormSayket\obj\Debug\StudentFormSayket.pdb
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.csprojAssemblyReference.cache
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.Properties.Resources.resources
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.csproj.GenerateResource.cache
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.csproj.CoreCompileInputs.cache
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.exe
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.pdb
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\bin\Debug\StudentFormSayket.exe.config
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\bin\Debug\StudentFormSayket.exe
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\bin\Debug\StudentFormSayket.pdb
+D:\Bitm- Seip '19\Day5\Student Form sayket\StudentFormSayket\obj\Debug\StudentFormSayket.StudentInfo.resources
